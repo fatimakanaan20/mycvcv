@@ -1,0 +1,41 @@
+	#headerimage{
+			width: 70px;height: 70px
+	; border-radius: 50%;
+		}
+
+		#headerspan{
+			font-size: 70px; font-weight: bold;
+	color:rgba(200,210,190,0.9);
+		}
+
+		.headerli{
+			float: left;font-size: 23px;font-weight: bold;margin-right: 10px;color: blue;
+		}
+
+		#sidebar{
+			float: right;
+			width: 20%;
+			background-color: white;
+			height: 100vh;
+
+		}
+
+		#content{
+			float: left;
+			width: 80%;
+		}
+		#post{
+			width: 100%;
+			background-color: red;
+			padding: 10px;
+		}
+		#post img{
+			width: 90%;
+			height: 290px;
+		}
+		#post p{
+			color: white
+		}
+		#post h1{
+			color: white;
+		}
